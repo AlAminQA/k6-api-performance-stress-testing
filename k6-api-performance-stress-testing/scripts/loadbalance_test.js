@@ -12,7 +12,7 @@ export const options = {
 };
 
 const URL =
-  "https://drishti-bo.jti.com/TestAPIService/api/v1/loadbalancetest/loadbalancetest";
+  "https:....";
 
 export default function () {
   const params = {
